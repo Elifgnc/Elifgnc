@@ -1,8 +1,7 @@
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500px" height="350px">
-
 <h1 align="center">Hi 👋, I'm Elif  GENCO </h1>
 <h3 align="left">(A passionate Backend developer from Türkiye)</h3>
+<br>
 
 ## About me
 
@@ -22,24 +21,13 @@
  <h3 align=""> IDE's / Editors:</h3>
  
   <p align=""><img src="https://camo.githubusercontent.com/c891389a25d8399ac59099761b21a8b84fb064a40b486792b10df9413cf6293b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"></p> 
-
-<h3 align="">Connect with me:</h3>
-<p align="">
-<a href="https://www.linkedin.com/in/elif-genco/-2aa7252a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtpKYXf1cQ%2BGwKt%2FiwG%2BwXg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif genco" height="30" width="40" /></a>
 <br>
-<br>
-- Mail: elifgenco.716@gmail.com
-</p>
-<hr>
-
-
 <h2 align="center">Github Stats:</h2>
 
 <span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="Elifgnc" /></span>
 <span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="Elifgnc" /></span>
 <p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elifgnc&" alt="Elifgnc" /></p>
-
-
+<br>
 ## 📚 Contact
 
 You can contact me through one of the following platforms:
