@@ -29,8 +29,8 @@ You can contact me through one of the following platforms:
   
 <h2 align="center">Github Stats:</h2>
 
-<span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="Elifgnc" /></span>
-<span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="Elifgnc" /></span>
+<span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elifgnc&show_icons=true&locale=en" alt="Elifgnc" /></span>
+<span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elifgnc&show_icons=true&locale=en&layout=compact" alt="Elifgnc" /></span>
 <p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elifgnc&" alt="Elifgnc" /></p>
 <br>
 
