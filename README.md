@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Elif  GENCO </h1>
 <h3 align="left">(A passionate Backend developer from Türkiye)</h3>
-<br>
 
 ## About me
 
