@@ -26,7 +26,7 @@ You can contact me through one of the following platforms:
 
 - LinkedIn: [Link to my LinkedIn Profile](https://www.linkedin.com/in/elif-genco/)
 - Mail: elifgenco.716@gmail.com
-- 
+  
 <h2 align="center">Github Stats:</h2>
 
 <span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="Elifgnc" /></span>
